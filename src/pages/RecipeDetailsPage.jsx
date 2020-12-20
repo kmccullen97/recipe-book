@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useParams } from 'react-router-dom';
+import { FiExternalLink } from 'react-icons/fi';
 
 import recipes from '../data/recipes.json';
 
@@ -21,8 +22,8 @@ const RecipeDetailsPage = () => {
     <div className="container">
       <h2>
         {recipe.name}{' '}
-        <a href={recipe.link} target="_blank">
-          external
+        <a href={recipe.link} target="_blank" style={{ fontSize: '0.8em' }}>
+          <FiExternalLink />
         </a>
       </h2>
       <p className="text-muted">{recipe.description}</p>
@@ -37,10 +38,10 @@ const RecipeDetailsPage = () => {
         </ol>
       </nav>
       <div className="row">
-        <div className="col-12 col-md-6">
+        <div className="col-12 col-md-4">
           <h4>Ingredients</h4>
           {Object.keys(recipe.ingredients).map((key) => (
-            <>
+            <React.Fragment key={key}>
               <h5>{key}</h5>
               <div className={key.length !== 0 ? 'ps-4' : ''}>
                 {recipe.ingredients[key].map((ingredients, i) => (
@@ -49,13 +50,13 @@ const RecipeDetailsPage = () => {
                   </p>
                 ))}
               </div>
-            </>
+            </React.Fragment>
           ))}
         </div>
-        <div className="col-12 col-md-6">
+        <div className="col-12 col-md-8">
           <h4>Instructions</h4>
           {Object.keys(recipe.instructions).map((key) => (
-            <>
+            <React.Fragment key={key}>
               {key.length !== 0 && <h5>{key}</h5>}
               {recipe.instructions[key].map((instruction, i) => (
                 <p key={`${key}-${i}`}>
@@ -63,7 +64,7 @@ const RecipeDetailsPage = () => {
                   <span className="ps-3">{instruction}</span>
                 </p>
               ))}
-            </>
+            </React.Fragment>
           ))}
         </div>
       </div>

@@ -5,7 +5,7 @@ const IngredientGroup = ({ name, values }) => {
     <div>
       <h3>{name}</h3>
       {Object.keys(values).map((key) => (
-        <div className="" key={key}>
+        <div key={key}>
           <div className="form-check">
             <input
               className="form-check-input"
@@ -13,7 +13,7 @@ const IngredientGroup = ({ name, values }) => {
               value=""
               id="flexCheckDefault"
             />
-            <label className="form-check-label h3" for="flexCheckDefault">
+            <label className="form-check-label h3" htmlFor="flexCheckDefault">
               {key}
             </label>
           </div>
