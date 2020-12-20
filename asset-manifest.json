@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/recipe-book/static/css/main.347e8eb0.chunk.css",
-    "main.js": "/recipe-book/static/js/main.7c6e1bb1.chunk.js",
-    "main.js.map": "/recipe-book/static/js/main.7c6e1bb1.chunk.js.map",
-    "runtime-main.js": "/recipe-book/static/js/runtime-main.449f44db.js",
-    "runtime-main.js.map": "/recipe-book/static/js/runtime-main.449f44db.js.map",
-    "static/js/2.5db3a1db.chunk.js": "/recipe-book/static/js/2.5db3a1db.chunk.js",
-    "static/js/2.5db3a1db.chunk.js.map": "/recipe-book/static/js/2.5db3a1db.chunk.js.map",
-    "static/js/3.e882fa46.chunk.js": "/recipe-book/static/js/3.e882fa46.chunk.js",
-    "static/js/3.e882fa46.chunk.js.map": "/recipe-book/static/js/3.e882fa46.chunk.js.map",
+    "main.js": "/recipe-book/static/js/main.a2406758.chunk.js",
+    "main.js.map": "/recipe-book/static/js/main.a2406758.chunk.js.map",
+    "runtime-main.js": "/recipe-book/static/js/runtime-main.8c56b6d0.js",
+    "runtime-main.js.map": "/recipe-book/static/js/runtime-main.8c56b6d0.js.map",
+    "static/js/2.db1a7e85.chunk.js": "/recipe-book/static/js/2.db1a7e85.chunk.js",
+    "static/js/2.db1a7e85.chunk.js.map": "/recipe-book/static/js/2.db1a7e85.chunk.js.map",
+    "static/js/3.cb203442.chunk.js": "/recipe-book/static/js/3.cb203442.chunk.js",
+    "static/js/3.cb203442.chunk.js.map": "/recipe-book/static/js/3.cb203442.chunk.js.map",
     "index.html": "/recipe-book/index.html",
     "static/css/main.347e8eb0.chunk.css.map": "/recipe-book/static/css/main.347e8eb0.chunk.css.map",
-    "static/js/2.5db3a1db.chunk.js.LICENSE.txt": "/recipe-book/static/js/2.5db3a1db.chunk.js.LICENSE.txt"
+    "static/js/2.db1a7e85.chunk.js.LICENSE.txt": "/recipe-book/static/js/2.db1a7e85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.449f44db.js",
-    "static/js/2.5db3a1db.chunk.js",
+    "static/js/runtime-main.8c56b6d0.js",
+    "static/js/2.db1a7e85.chunk.js",
     "static/css/main.347e8eb0.chunk.css",
-    "static/js/main.7c6e1bb1.chunk.js"
+    "static/js/main.a2406758.chunk.js"
   ]
 }
