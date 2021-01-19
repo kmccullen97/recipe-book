@@ -10,6 +10,7 @@
       "": [
         { "name": "Rolled Oats", "qty": "2 1/2", "unit": "cups" },
         { "name": "Honey", "qty": "1/4", "unit": "cup" },
+        { "name": "Butter", "qty": "1/4", "unit": "cup" },
         { "name": "Brown Sugar", "qty": "1/3", "unit": "cup" },
         { "name": "Vanilla Extract", "qty": "1", "unit": "teaspoon" },
         { "name": "Chocolate", "qty": "1/2", "unit": "cup" },
@@ -512,6 +513,86 @@
         "Heat oil in a pot over medium-high heat. Saute bell pepper, onion, and jalapeno peppers until tender, about 3 minutes. Add chili powder, salt, cumin, and garlic. Cook, stirring occasionally, for about 10 minutes, making sure chili powder does not burn.",
         "Stir tomatoes, beans, water, and rice into the pot. Bring to a boil. Reduce heat to low, cover, and simmer until rice is fully cooked, about 20 minutes. Check every 10 to 15 minutes if extra water is needed; add 1/4 cup at a time.",
         "Stir corn and pepper into the chili and cook until heated through, about 5 minutes. Serve with vegan cheese."
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "name": "Vegetarian Reuben Sandwich",
+    "thumbnail": "vegetarian-reuben-sandwich.png",
+    "description": "An easy to make, over the top flavorful sauerkraut sandwich with roasted beets!",
+    "link": "https://vanillaandbean.com/vegetarian-reuben/",
+    "tags": ["Sandwich", "Lunch"],
+    "ingredients": {
+      "Russian Dressing": [
+        { "name": "Mayo", "qty": "4", "unit": "tablespoons" },
+        { "name": "Ketchup", "qty": "2 1/2", "unit": "teaspoons" },
+        { "name": "Sriracha", "qty": "1", "unit": "teaspoon" },
+        { "name": "Dijon Mustard", "qty": "1/2", "unit": "teaspoon" },
+        {
+          "name": "Vegan Worcestershire Sauce",
+          "qty": "1/2",
+          "unit": "teaspoon"
+        },
+        { "name": "Ground Black Pepper", "qty": "1/8", "unit": "teaspoon" },
+        { "name": "Dill Pickles", "qty": "2", "unit": "tablespoons" }
+      ],
+      "Sandwich": [
+        { "name": "Sourdough Bread", "qty": "2", "unit": "Slices" },
+        { "name": "Swiss Cheese (optional)", "qty": "1", "unit": "Slice" },
+        { "name": "Roasted Beats", "qty": "1 - 2", "unit": "" },
+        { "name": "Sauerkraut (Drained)", "qty": "3-4", "unit": "tablespoons" }
+      ]
+    },
+    "instructions": {
+      "Russian Dressing": [
+        "In a small lidded container add the mayo, ketchup, Sriracha, dijon, Worcestershire, pepper and dill pickles. Whisk to evenly distribute the ingredients. Lid and store in the refrigerator for up to two weeks."
+      ],
+      "Sandwich": [
+        "Make it in a skillet or broil the sammie in the oven (no oil required).",
+        "A. In a skillet: Lightly brush a cast iron skillet with olive oil. Place two pieces of bread in the pan and slather each side with the sauce. Over the sauce on each side of the bread, add a slice of Swiss cheese if using. Top one side with beet slices, pile them high if desired, then top the beets with sauerkraut. Turn the heat onto medium and lid the pan. Toast for 4-5 minutes until the cheese is melted and/or the beets are warm. Remove from heat and put the sandwich together. Share right away.",
+        "B. In the Oven: Slather each side of bread with the sauce. On each side of the bread, add a slice of Swiss cheese if using. Top one side with beet slices, pile them high if desired, then top the beets with sauerkraut. Place both sides in the oven (I use a toaster oven) under the broiler and broil for 4-5 minutes OR until the cheese is melted and/or the sandwich is warmed through. Remove from oven and put the sandwich together. Share right away."
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "name": "Ramen Stir Fry",
+    "thumbnail": "ramen-stir-fry.png",
+    "description": "This ramen stir fry doctors up packaged ramen noodles with a rainbow of fresh vegetables and an easy stir fry sauce made from pantry staples.",
+    "link": "https://thestingyvegan.com/ramen-stir-fry/",
+    "tags": ["Dinner"],
+    "ingredients": {
+      "": [
+        { "name": "Dried Ramen Noodles", "qty": "2", "unit": "packages" },
+        { "name": "Oil", "qty": "2", "unit": "tablespoons" },
+        { "name": "Ginger (finely chopped)", "qty": "1", "unit": "tablespoon" },
+        { "name": "Garlic", "qty": "2", "unit": "cloves" },
+        { "name": "Green Onions", "qty": "2", "unit": "" },
+        { "name": "Carrots", "qty": "2", "unit": "" },
+        { "name": "Broccoli", "qty": "1/2", "unit": "head" },
+        { "name": "Red Pepper", "qty": "1/2", "unit": "" },
+        { "name": "Zucchini", "qty": "1/2", "unit": "" }
+      ],
+      "For the stir fry sauce": [
+        {
+          "name": "Vegetable Stocks",
+          "qty": "1/4 (+ 2 tablespoons)",
+          "unit": "cup"
+        },
+        { "name": "Soy Sauce", "qty": "3", "unit": "tablespoons" },
+        { "name": "Molasses", "qty": "1 1/2", "unit": "tablespoons" },
+        { "name": "Sriracha", "qty": "1", "unit": "tablespoon" },
+        { "name": "Cornstarch", "qty": "1 1/2", "unit": "teaspoons" }
+      ]
+    },
+    "instructions": {
+      "": [
+        "Put a pot of water on to boil for the noodles. Meanwhile, chop all your veggies and combine the ingredients for the stir fry sauce.",
+        "When the water is boiling, add the noodles and boil just until the noodles separate but are still chewy – just a minute or so. It’s important to undercook the noodles as they will continue cooking in the sauce. Drain and rinse with cold water to stop the cooking processes. Set aside.",
+        "Heat the oil in a wok or large pan over medium-high heat. Add the ginger, garlic, and white and light green parts of the green onions. Fry, stirring constantly, for 10-15 seconds or until soft and fragrant but not browning.",
+        "Add the carrots and broccoli. Stir fry until beginning to soften. Add the red pepper and zucchini and continue stir frying until all the veggies are crisp-tender.",
+        "Add the noodles to the pan and pour in the sauce. Simmer, stirring, until the sauce is thick and covers the noodles and veggies. Stir in the green tops of the green onions and serve."
       ]
     }
   }
